@@ -1,5 +1,7 @@
 # Testing page
 
+::center-hero
+
 Hallo das ist ein Test
 
 ---

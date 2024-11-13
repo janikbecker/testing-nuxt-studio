@@ -1,8 +1,8 @@
 ---
-layout: wide
+layout: default
 ---
 
-# This is your brand new directory ! 👋
+# Hallo das ist eine test Seite für Nuxt Studio👋
 
 You can customize this page in markdown.
 
@@ -22,3 +22,5 @@ Here is your starting listings grid 👇
 
 ::directory-grid
 ::
+
+dfsaklfdjök
